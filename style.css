@@ -92,6 +92,11 @@ body {
     text-decoration: none;
 }
 
+.instructions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
