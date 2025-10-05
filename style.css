@@ -92,10 +92,9 @@ body {
     text-decoration: none;
 }
 
-.instructions {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.instruction {
+    margin-top: 40px;
+    text-align: center;
 }
 
 
