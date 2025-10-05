@@ -74,11 +74,11 @@ body {
 .info h2 {
     font-size: 28px;
     font-weight: 300;
-    margin: 0;
+    margin: 10px;
 }
 
 .info h4 {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     margin: 0;
 }
@@ -92,4 +92,5 @@ body {
     text-decoration: none;
 
 }
+
 
