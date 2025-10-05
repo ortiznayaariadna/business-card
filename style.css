@@ -93,8 +93,9 @@ body {
 }
 
 .instruction {
-    position: relative;
+    position: fixed;
 }
+
 
 
 
